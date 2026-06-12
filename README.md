@@ -184,4 +184,4 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 ## 👤 Author
 
-**Vijay** — CyRaksha Siliguri · Deep Learning Enthusiast · Cybersecurity & Data Science
+**Vijay Ishan Chowdhury** · Deep Learning Enthusiast · Cybersecurity & Data Science
